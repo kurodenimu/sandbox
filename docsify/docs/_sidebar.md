@@ -1,2 +1,2 @@
-* [HOME](../README.md)
+* [HOME](/)
 * [TEST](TEST.md)
